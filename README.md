@@ -1,5 +1,5 @@
 # playoffprobability
-# A playoff probability generation engine for the MSPC Fantasy Football League
+# A playoff probability engine for the MSPC Fantasy Football League
 
 
 DESCRIPTION:
